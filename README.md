@@ -2,8 +2,11 @@
 
 ### This project was made with the purpose of studying how the front-end part, built with ReactJs, integrates with an external API, using Axios.
 
+![](https://user-images.githubusercontent.com/26651389/102989118-da96f500-44f3-11eb-93f3-c077c2f1e632.gif)
 
+It's designed in a grid way, using Styled Components, and each card displays info about one character. The search bar filters characters by name, and was made using Hooks
 
+### Clone this repo and follow the instructions below to run it on your local machine:
 
 
 ## Getting Started with Create React App
